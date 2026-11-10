@@ -1,4 +1,3 @@
-==============================================================================
  DYNAMIC ISLAND for KDE / Linux
  An iPhone-style "Dynamic Island" that lives at the top-center of your screen.
  Python + PySide6. Tested design target: KDE Plasma on Kali Linux (Wayland/X11).
